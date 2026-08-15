@@ -11,3 +11,4 @@ Honours Bachelor of Computer Science student at Sheridan College, specializing i
 
 ### A few projects I've worked on
 - 📝 **[Notesphere](https://github.com/Ali-Talha/Notesphere-Application)** — Full-stack student productivity app (ASP.NET Core MVC, EF, SQL Server) built with a 4-person Agile team; I owned the Productivity module.
+- 🔧 **[Resolv](https://github.com/Ali-Talha/Resolv-Product-Increment)** — Property maintenance management system (ASP.NET Core MVC, EF Core, layered architecture) built with a 2-person team; I designed the Domain layer and built Tenant Request Management.
