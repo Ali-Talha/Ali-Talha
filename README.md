@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Talha 👋
 
-<!--
-**Ali-Talha/Ali-Talha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Honours Bachelor of Computer Science student at Sheridan College, specializing in Data Analytics (expected April 2027). I build machine learning models, statistical analyses, SQL Server ETL pipelines, and full-stack .NET applications — and I'm currently looking for a **Fall 2026 co-op placement**.
 
-Here are some ideas to get you started:
+### What I work with
+**Languages:** Python · R · SQL (T-SQL) · C#
+**Data & ML:** scikit-learn · Feature Selection · Hyperparameter Tuning · Cross-Validation · Regression · Hypothesis Testing (ANOVA/MANOVA/ANCOVA)
+**Data Engineering:** Microsoft SQL Server · SQLite · MongoDB · Dimensional Modeling · ETL · Change Data Capture
+**Development:** ASP.NET Core MVC · Entity Framework · Razor · Git
+**Tools:** Excel · Tableau · Power BI · Jupyter · RStudio · Visual Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A few projects I've worked on
+- 📝 **[Notesphere](https://github.com/Ali-Talha/Notesphere-Application)** — Full-stack student productivity app (ASP.NET Core MVC, EF, SQL Server) built with a 4-person Agile team; I owned the Productivity module.
