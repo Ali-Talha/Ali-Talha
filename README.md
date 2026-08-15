@@ -1,6 +1,6 @@
 # Hi, I'm Talha 👋
 
-Honours Bachelor of Computer Science student at Sheridan College, specializing in Data Analytics (expected April 2027). I build machine learning models, statistical analyses, SQL Server ETL pipelines, and full-stack .NET applications — and I'm currently looking for a **Fall 2026 co-op placement**.
+Honours Bachelor of Computer Science student at Sheridan College, specializing in Data Analytics (expected May 2028). I build machine learning models, statistical analyses, SQL Server ETL pipelines, and full-stack .NET applications.
 
 ### What I work with
 **Languages:** Python · R · SQL (T-SQL) · C#
